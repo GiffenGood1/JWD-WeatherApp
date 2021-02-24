@@ -1,4 +1,4 @@
-const apiKey = "047e6d405727c5888f41771c6e262647"; // ENTER OWN API KEY HERE
+const apiKey = "ENTER OWN API KEY HERE"; // ENTER OWN API KEY HERE
 
 const makeCard = (icon, name, description, temp, feelsLike, max, min) => {
   const card = document.querySelector("#weatherCard");
